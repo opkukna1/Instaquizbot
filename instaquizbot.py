@@ -45,7 +45,7 @@ PORT = int(os.environ.get('PORT', 8443))
  GETTING_BANNER_IMAGE, CHOOSING_BANNER_TO_DELETE,
  # Update state
  GETTING_UPDATE_TEXT
-) = range(16)
+) = range(15)
 
 
 # --- Helper Functions ---
